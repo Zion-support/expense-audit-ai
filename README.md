@@ -1,26 +1,24 @@
 # Expense Audit AI
 
-> Audit expense reports with AI: duplicates, violations, outliers
+Audit expense reports with AI: duplicates, policy violations and outlier detection before reimbursement.
 
-Audit expense reports with AI: duplicates, violations, outliers.
-
-**Live:** https://ziontechgroup.com/expense-audit-ai/  
-**Network hub:** https://github.com/Zion-support/zion-app-network
+**Live app:** https://zion-support.github.io/expense-audit-ai/ · **GitHub:** https://github.com/Zion-support/expense-audit-ai
 
 ## Features
-- Duplicate and split-transaction detection
-- Policy violation flags with plain-language reasons
-- Receipt OCR and merchant normalization
-- Outlier scoring across teams and categories
+- Duplicate receipt and amount matching
+- Policy violation flags with reasons
+- Outlier detection vs team norms
 
 ## Part of the Zion AI App Network
-- [App Network Directory](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
-- [Proposal Builder AI](https://github.com/Zion-support/proposal-builder-ai) — https://ziontechgroup.com/proposal-builder-ai/
-- [IT Asset Lifecycle Tracker](https://github.com/Zion-support/it-asset-lifecycle-tracker) — https://ziontechgroup.com/it-asset-lifecycle-tracker/
-- [Content ROI Dashboard](https://github.com/Zion-support/content-roi-dashboard) — https://ziontechgroup.com/content-roi-dashboard/
-- [SLA Forecast Guardian](https://github.com/Zion-support/sla-forecast-guardian) — https://ziontechgroup.com/sla-forecast-guardian/
-- [Support Deflection Analyzer](https://github.com/Zion-support/support-deflection-analyzer) — https://ziontechgroup.com/support-deflection-analyzer/
-- [Compliance Policy Writer](https://github.com/Zion-support/compliance-policy-writer) — https://ziontechgroup.com/compliance-policy-writer/
+- 🏠 Homepage: https://ziontechgroup.com
+- 🌐 App Showcase: https://zion-support.github.io/apps/
+- 🧭 Master directory: https://github.com/Zion-support/zion-app-network
+- 🔗 Interlinks: see [NETWORK.md](NETWORK.md)
+
+## Related apps
+- [Invoice Match AI](https://zion-support.github.io/invoice-match-ai/)
+- [Content ROI Dashboard](https://zion-support.github.io/content-roi-dashboard/)
+- [Cloud Budget Guard](https://zion-support.github.io/cloud-budget-guard/)
 
 ---
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group · [Book a Discovery Call](https://ziontechgroup.com/discovery/)
